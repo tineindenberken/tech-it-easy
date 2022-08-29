@@ -1,4 +1,4 @@
-// VOORRAAD ARRAY MET TV'S
+// VOORRAAD ARRAY MET TV'S.a
 const inventory = [
   {
     type: '43PUS6504/12',
